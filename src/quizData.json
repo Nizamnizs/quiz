@@ -1,0 +1,51 @@
+{
+    "questions": [
+      {
+        "questionText": "What is the capital of India?",
+        "answerOptions": [
+          { "answerText": "New Delhi", "isCorrect": true },
+          { "answerText": "Mumbai", "isCorrect": false },
+          { "answerText": "Bangalore", "isCorrect": false },
+          { "answerText": "Kolkata", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "Who is known as the 'Father of the Nation' in India?",
+        "answerOptions": [
+          { "answerText": "Subhas Chandra Bose", "isCorrect": false },
+          { "answerText": "Jawaharlal Nehru", "isCorrect": false },
+          { "answerText": "Sardar Vallabhbhai Patel", "isCorrect": false },
+          { "answerText": "Mahatma Gandhi", "isCorrect": true }
+        ]
+      },
+      {
+        "questionText": "Which river is the longest in India?",
+        "answerOptions": [
+          { "answerText": "Yamuna", "isCorrect": false },
+          { "answerText": "Ganges", "isCorrect": true },
+          { "answerText": "Brahmaputra", "isCorrect": false },
+          { "answerText": "Godavari", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "Which is the highest mountain peak in India?",
+        "answerOptions": [
+          { "answerText": "Mount K2", "isCorrect": false },
+          { "answerText": "Kangchenjunga", "isCorrect": true },
+          { "answerText": "Nanda Devi", "isCorrect": false },
+          { "answerText": "Mount Everest", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "When did India gain independence from British rule?",
+        "answerOptions": [
+          { "answerText": "1942", "isCorrect": false },
+          { "answerText": "1945", "isCorrect": false },
+          { "answerText": "1947", "isCorrect": true },
+          { "answerText": "1950", "isCorrect": false }
+        ]
+      }
+    
+    ]
+  }
+  
